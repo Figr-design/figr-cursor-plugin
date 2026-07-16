@@ -2,7 +2,7 @@
 
 Figr is an AI design canvas. Designers build UI in conversation; the **Figr MCP** exposes that project as a **read-only virtual filesystem** so coding agents can implement the real product.
 
-**Endpoint:** `https://mcp.figr.design/mcp` (HTTP / streamable-http)
+**Endpoint:** whatever Figr MCP HTTP URL the client has configured (production default: `https://mcp.figr.design/mcp`).
 
 This guide is the source of truth for Claude Code, Cursor, VS Code, Codex, and other MCP clients.
 
