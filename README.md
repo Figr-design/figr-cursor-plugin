@@ -1,4 +1,4 @@
-# Figr — Cursor marketplace
+# Figr - Cursor marketplace
 
 Public install source for the Figr Cursor plugin (MCP + `figr-mcp` skill + rule).
 
